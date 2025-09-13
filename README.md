@@ -36,5 +36,5 @@ Inspired by the classic Chrome Dinosaur game, but with a twist: it’s so hard t
 
 ---
 
-## 📌 Inspiration  
+##  Inspiration  
 This game takes inspiration from the **Google Chrome Dinosaur Game**, but pushes the idea into a **hardcore replayable challenge** — easy to learn, impossible to master.  
